@@ -112,8 +112,8 @@ Android的多功能日志工具，支持Logcat输出显示和文件记录。
     ![本地日志](https://github.com/anysou/AS_Log/blob/master/pictures/pic4.png)
 
 ## 使用样板 ASLoggerSample
- 在样例程序中，采用了B.B调用方式。
- 样例中有三个按键：1）记录日志、2）TextViem显示日志、3）ListViem显示日志、4）调用实时logcat
+ 在样例程序中，采用了B.B调用方式。<br>
+ 样例中有三个按键：1）记录日志、2）TextViem显示日志、3）ListViem显示日志、4）调用实时logcat<br>
  ![Sample展示](https://github.com/anysou/AS_Log/blob/master/pictures/pic0.png)
 
 ### 引用项目
