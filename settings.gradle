@@ -1,0 +1,3 @@
+rootProject.name='AS_Logger'
+include ':app'
+include ':aslogger'
