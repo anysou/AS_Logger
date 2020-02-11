@@ -10,6 +10,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,8 +18,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity android:name=".ShowLogActivity" android:label="字符串TextView方式显示日志" />
-        <activity android:name=".ShowLogByListViewAcitvity" android:label="字符串数组ListView方式显示日志"></activity>
+        <activity android:name=".ShowLogByListViewAcitvity" android:label="字符串数组ListView方式显示日志" />
+
     </application>
 
 </manifest>
